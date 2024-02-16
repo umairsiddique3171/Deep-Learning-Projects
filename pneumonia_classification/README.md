@@ -4,4 +4,5 @@ This repository contains the source code of the project focused on training CNN 
 Trained model can be found here : https://drive.google.com/drive/folders/1xYf5TNHwfR_9NE-JV-dh2vxykzkfqhaG?usp=sharing
 <br>
 Data for this project can be found here : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=download
+<br>
 Author : Umair Siddique

@@ -1,2 +1,4 @@
 # Deep-Learning-Projects
-This repository contains the projects which I did while understanding Deep Learning.
+This repository contains the projects I did while learning Deep Learning.
+<br>
+Author : Umair Siddique
